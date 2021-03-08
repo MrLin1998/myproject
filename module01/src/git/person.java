@@ -1,5 +1,5 @@
 package git;
 
 public class person {
-    private String ;
+    private String pno;
 }
